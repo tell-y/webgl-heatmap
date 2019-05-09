@@ -1,0 +1,16 @@
+{
+  "name": "webgl-heatmap",
+  "version": "0.0.1",
+  "description": "pyalot's webgl-heatmap for CommonJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-my:tell-y/webgl-heatmap.git"
+  },
+  "keywords": ["webgl-heatmap", "commonjs"],
+  "author": "tell-y",
+  "license": "MIT"
+}
